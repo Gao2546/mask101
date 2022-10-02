@@ -1,0 +1,3 @@
+cd 6510110513_mask/6510110513_mask_code/
+python 6510110513.py
+python3 6510110513.py
